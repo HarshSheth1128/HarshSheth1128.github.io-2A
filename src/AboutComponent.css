@@ -1,0 +1,70 @@
+.AboutComponent{
+    position: fixed;
+    left:33%;
+    height: 100%;
+    overflow-y: auto;
+    width: 67%;
+    text-align: center;
+    font-family:"Passion One";
+}
+
+#Title{
+    font-size: 50px;
+    background-color: #423E37;
+    color:white;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+#ParagraphText{
+    display: inline-block;
+    font-family: "Signika";
+    font-size: 25px;
+    padding-top: 35px;
+    padding-bottom: 25px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+#ParagraphTextBullet{
+    display: absolute;
+    font-family: "Signika";
+    font-size: 25px;
+    margin-left:0px;
+    padding-top: 35px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.OddBox{
+    display: block;
+    background-color: #FCCD41;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left:0px;
+    margin-right:0px;
+}
+
+.EvenBox{
+    display: block;
+    background-color: #423E37;
+    color: white;
+    padding-top:0px;
+    padding-bottom:0px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+}
+
+#Bullets{
+    margin-top:0px;
+    padding-top:0px;
+    font-family: "Signika";
+    font-size: 25px;
+    text-align: left;
+    padding-bottom: 10px;
+}

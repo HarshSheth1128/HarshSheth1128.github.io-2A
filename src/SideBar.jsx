@@ -8,13 +8,13 @@ class SideBar extends Component {
         <p id="Name">Harsh Sheth</p>
         <p id="Bio">This is my bio</p>
         <div className="anchorContainer">
-          <a onClick={this.hello}>About Me</a>
+          <a href="/about" onClick={this.hello}>About Me</a>
         </div>
         <div className="anchorContainer">
-          <a href="url">Projects</a>
+          <a href="/projects">Projects</a>
         </div>
         <div className="anchorContainer">
-          <a href="url">Contact Me</a>
+          <a href="/contact">Contact Me</a>
         </div>
       </div>
     );

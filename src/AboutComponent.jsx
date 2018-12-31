@@ -18,7 +18,8 @@ class AboutComponent extends Component {
         <div className="OddBox">
             <p id="ParagraphTextBullet">Besides technology my hobbies include:</p>
             <ul>
-                <li id="Bullets">Listening to and discussing HipHop</li>
+                <li id="Bullets"><a href="https://www.youtube.com/channel/UCRqUv9SqlvjqwXo7otTSJng">Making youtube videos teaching fundamental technological concepts</a></li>
+                <li id="Bullets">Listening to and discussing Hip Hop</li>
                 <li id="Bullets">Playing Video Games</li>
                 <li id="Bullets">Reading and Reviewing Books</li>
                 <li id="Bullets">Reading and Reviewing Movies</li>
@@ -29,7 +30,7 @@ class AboutComponent extends Component {
         </div>
 
         <div className="EvenBox">
-            <p id="ParagraphText">I have an interest in web development and machine learning I hope that this page accurately expresses my interests in this field.</p>
+            <p id="ParagraphText">I have an interest in web development, machine learning, and video games. I hope that this page accurately expresses my interests in this field.</p>
         </div>
         
       </div>

@@ -8,7 +8,7 @@ class SideBar extends Component {
         <p id="Name">Harsh Sheth</p>
         <p id="Bio">This is my bio</p>
         <div className="anchorContainer">
-          <a href="/about" onClick={this.hello}>About Me</a>
+          <a href="/about">About Me</a>
         </div>
         <div className="anchorContainer">
           <a href="/projects">Projects</a>

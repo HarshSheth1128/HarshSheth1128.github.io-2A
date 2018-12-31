@@ -1,0 +1,54 @@
+#ContactComponent{
+    position: fixed;
+    left: 33%;
+}
+
+#TitleSection{
+    position: fixed;
+    width: 67%;
+    height: 10%;
+    background-color: #FFC145;
+    color:white;
+    font-family: "Patua One";
+    font-size: 40px;
+    text-align: center;
+}
+
+.topWrapper{
+    text-align: center;
+    margin-top:12%;
+}
+
+.bottomWrapper{
+    text-align: center;
+    margin-top:15%;
+}
+
+#TopHalf{
+    position: fixed;
+    top:10%;
+    width: 67%;
+    height: 45%;
+    background-color: white;
+    font-size: 30px;
+    font-family: "Patua One"
+}
+
+#BottomHalf{
+    position: fixed;
+    top:55%;
+    width: 67%;
+    height: 45%;
+    background-color:#FFC145;
+    font-size: 30px;
+    font-family: "Patua One";
+    color:white;
+}
+
+#githubIMG:hover:before{
+    visibility: hidden;
+}
+
+#githubIMG{
+    margin:20px;
+}

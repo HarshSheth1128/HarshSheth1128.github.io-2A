@@ -18,7 +18,7 @@ class ProjectComponent extends Component {
                 image={focusImg} 
                 title={"Focus Web Application"}
                 technologies={"(Javascript, HTML, CSS, React.js)"}
-                description={"The focus application allows you to consolidate all your studying needs in one place. Work without distractions using the built in pomodoro section, tasks tracker (with time), and a notes section"}
+                description={"The focus application allows you to consolidate all your studying needs in one place. Work without distractions using the built in pomodoro section, tasks tracker (with time), and a notes section."}
                 projectLink={"https://harshsheth1128.github.io/focus"}
                 link={"https://github.com/HarshSheth1128/Focus"}></Project>
                 <Project 
@@ -30,7 +30,7 @@ class ProjectComponent extends Component {
                 link={"https://github.com/HarshSheth1128/Weather"}></Project>
                 <Project 
                 image={pythonImg} 
-                title={"UWaterloo Class Times Python Web Scraper"}
+                title={"UWaterloo Class Times Web Scraper"}
                 technologies={"(Python)"}
                 description={"I designed this script so that I could find out when a course has free spots available. It was my intro to the language."}
                 link={"https://github.com/HarshSheth1128/Track-Courses"}></Project>
@@ -38,7 +38,7 @@ class ProjectComponent extends Component {
                 image={jokeImg} 
                 title={"Quick Jokes Chrome Extension"}
                 technologies={"(Chrome, Javascript, AJAX, REST)"}
-                description={"I designed this script to poll reddit.com/r/funny and get me new jokes whenever I wanted"}
+                description={"I designed this script to poll reddit.com/r/funny and get me new jokes whenever I wanted."}
                 projectLink={"https://chrome.google.com/webstore/detail/joke-extension/jjbkhccadjacoagfdkckilefbjjmfhge?authuser=1"}
                 link={"https://github.com/HarshSheth1128/Joke-Extension"}></Project>
                 <Project 
@@ -51,14 +51,14 @@ class ProjectComponent extends Component {
                 image={projectImg} 
                 title={"Reddit Quick Post"}
                 technologies={"(Javascript, Chrome)"}
-                description={"I designed this extension so that you could quickly procrastinate and view the top,hot, or most recent posts on reddit."}
+                description={"I designed this extension so that you could quickly procrastinate and view the top, hot, or most recent posts on reddit."}
                 projectLink={"https://chrome.google.com/webstore/detail/reddit-quick-post/nclmpfflbahgmigkndhblfbgdimnhfmc?hl=en"}
                 link={"https://github.com/HarshSheth1128/Reddit-Quick-Post"}></Project>
                 <Project 
                 image={ballImg} 
                 title={"Android Ball Catch Game"}
                 technologies={"(Android, Java)"}
-                description={"I made this game as my introduction to the android environment. It is available on the google play store."}
+                description={"I made this game as my introduction to the Android environment. It is available on the google play store."}
                 projectLink={"https://play.google.com/store/apps/details?id=com.harsh.game"}
                 link={"https://github.com/HarshSheth1128/Android-Applications"}></Project>
             </div>

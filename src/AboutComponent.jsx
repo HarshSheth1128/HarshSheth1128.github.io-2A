@@ -7,12 +7,12 @@ class AboutComponent extends Component {
       <div className="AboutComponent">
         <p id="Title"><u>About Me</u></p>
         <div className="OddBox">
-            <p id="ParagraphText">Hi there! My name is Harsh Sheth (as you can probably tell from the giant sidebar)
+            <p id="ParagraphText">Hi there! My name is Harsh Sheth (as you can probably tell from the giant sidebar).
         I am a 2B Computer Science student at the University of Waterloo.</p>
         </div>
 
         <div className="EvenBox">
-            <p id="ParagraphText">I have a unhealthy obsession over all things electronic. I love to learn, discuss, and teach all things related to tech!</p>
+            <p id="ParagraphText">I have an unhealthy obsession over all things electronic. I love to learn, discuss, and teach all things related to tech!</p>
         </div>
         
         <div className="OddBox">

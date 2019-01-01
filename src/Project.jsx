@@ -13,16 +13,16 @@ class Project extends Component {
                 <p> <a href={this.props.link}>{this.props.title}</a></p>
             </div>
             <div id="ProjectTechnologies">
-                <p>{this.props.technologies}</p>
+                <p id="tech">{this.props.technologies}</p>
             </div>
             <div id="ProjectDescription">
-                <p>{this.props.description}</p>
+                <p id="descr">{this.props.description}</p>
             </div>
-            
+            <div id="ProjectLink">
+                <p id="link"><a href={this.props.projectLink}>{(this.props.projectLink)? "Try it out here":""}</a></p>
+            </div>
         </div>
-        <div id="ProjectLink">
-                <p><a href={this.props.projectLink}>{(this.props.projectLink)? "Try it out here":""}</a></p>
-            </div>
+        
       </div>
     );
   }

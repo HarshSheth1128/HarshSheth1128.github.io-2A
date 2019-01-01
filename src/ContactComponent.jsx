@@ -6,7 +6,7 @@ import phoneImg from './Assets/phone-call.png';
 import emailImg from './Assets/envelope.png';
 import githubImg from './Assets/github-logo.png';
 import linkedInImg from './Assets/linkedin-button.png';
-
+//Test
 class App extends Component {
   render() {
     return (
